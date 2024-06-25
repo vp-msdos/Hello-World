@@ -185,6 +185,7 @@
 - [Victor Azevedo](https://github.com/victormazevedo)
 - [viewless](https://github.com/viewless)
 - [Vishal Arora](https://github.com/WishAllVA)
+- [Vishwas Singh](https://github.com/vp-msdos)
 - [Viktoria Cseke](https://github.com/FurfurV)
 - [Vivek Praharsha](https://github.com/VPraharsha3)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
